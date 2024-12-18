@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1412.4834"
+   height="391.88065"
+   viewBox="0 0 1412.4834 391.88065"
+   sodipodi:docname="LOGO.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.1644246"
+     inkscape:cx="585.26762"
+     inkscape:cy="-50.239407"
+     inkscape:window-width="5160"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer-MC0">
+    <inkscape:page
+       x="-3.5837343e-06"
+       y="-5.3611298e-06"
+       width="1412.4834"
+       height="391.88065"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-8399.6572,-494.5621)">
+    <text
+       id="text35-4"
+       xml:space="preserve"
+       x="8388.9688"
+       y="856.56409"
+       style="font-size:16px;stroke-width:1.33333"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.373px;font-family:'Open Sans';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="8388.9688 8460.707 8522.1348 8553.2285 8639.9658 8705.5732 8732.7109 8803.1689 8831.501 8876.5117 8915.4404"
+         y="856.56409"
+         sodipodi:role="line"
+         id="tspan36-4"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan1">by Deloitte</tspan><tspan
+           style="font-size:192px;fill:#86bc25;stroke-width:1.33333"
+           id="tspan40-8">.</tspan></tspan></text>
+    <text
+       id="text38-7"
+       xml:space="preserve"
+       x="8381.7295"
+       y="681.409"
+       style="font-size:16px;stroke-width:1.33333"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:245.927px;font-family:'Open Sans';writing-mode:lr-tb;fill:#87bb25;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         sodipodi:role="line"
+         id="tspan38-3"
+         x="8381.7295"
+         y="681.409">ESD Tracker</tspan></text>
+  </g>
+</svg>
